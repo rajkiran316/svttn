@@ -1,0 +1,225 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 13 Aug 2018 12:54:33 at http://www.cumby.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.cumby.com/ -O1 "d:\My Web Sites\build1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:54:34	Warning: 	Note: due to www.cumby.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+13:02:16	Warning: 	Retry after error 500 (Internal Server Error) at link www.cumby.com/wp-content/themes/wscumby/ (from www.cumby.com/)
+13:35:28	Warning: 	Retry after error -4 (Incorrect length (24728 Bytes, 1185207 expected)) at link www.cumby.com/wp-content/uploads/2018/03/shipley1.jpg (from www.cumby.com/)
+13:35:29	Warning: 	Retry after error -4 (Incorrect length (285111 Bytes, 995808 expected)) at link www.cumby.com/wp-content/uploads/2018/06/small_DSC_0111b.jpg (from www.cumby.com/)
+13:36:12	Warning: 	Retry after error 500 (Internal Server Error) at link www.cumby.com/wp-content/themes/wscumby/ (from www.cumby.com/)
+13:36:12	Warning: 	Moved Permanently for www.cumby.com/?p=42
+13:36:12	Warning: 	File has moved from www.cumby.com/?p=42 to http://www.cumby.com/news/
+13:47:54	Warning: 	Moved Permanently for www.cumby.com/?p=8
+13:47:54	Warning: 	File has moved from www.cumby.com/?p=8 to http://www.cumby.com/our-company/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=10
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=10 to http://www.cumby.com/projects/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=12
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=12 to http://www.cumby.com/projects/academic/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=14
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=14 to http://www.cumby.com/projects/corporate/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=16
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=16 to http://www.cumby.com/projects/religious/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=20
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=20 to http://www.cumby.com/projects/historic/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=22
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=22 to http://www.cumby.com/projects/multifamily/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=24
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=24 to http://www.cumby.com/projects/leed-green-building/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=26
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=26 to http://www.cumby.com/projects/senior-living/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=28
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=28 to http://www.cumby.com/services/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=30
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=30 to http://www.cumby.com/services/pre-construction/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=32
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=32 to http://www.cumby.com/services/construction/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=34
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=34 to http://www.cumby.com/services/design-build/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=36
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=36 to http://www.cumby.com/services/virtual-design-construction/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=38
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=38 to http://www.cumby.com/services/high-performance-sustainable-building/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=40
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=40 to http://www.cumby.com/services/special-projects/
+14:03:11	Warning: 	Moved Permanently for www.cumby.com/?p=44
+14:03:11	Warning: 	File has moved from www.cumby.com/?p=44 to http://www.cumby.com/contact/
+14:03:28	Warning: 	Moved Permanently for www.cumby.com/?p=399
+14:03:28	Warning: 	File has moved from www.cumby.com/?p=399 to http://www.cumby.com/subcontractors/
+14:03:28	Warning: 	Retry after error -2 (Receive Time Out) at link www.cumby.com/wp-content/uploads/2018/03/shipley1.jpg (from www.cumby.com/)
+14:03:43	Error: 	"Internal Server Error" (500) after 2 retries at link www.cumby.com/wp-content/themes/wscumby/ (from www.cumby.com/)
+14:07:24	Warning: 	Moved Permanently for www.cumby.com/?p=1381
+14:07:24	Warning: 	File has moved from www.cumby.com/?p=1381 to http://www.cumby.com/construction-update-benchmark-school/
+14:07:24	Warning: 	Moved Permanently for www.cumby.com/?p=1377
+14:07:24	Warning: 	File has moved from www.cumby.com/?p=1377 to http://www.cumby.com/new-innovations-in-construction-technology-at-w-s-cumby/
+14:07:24	Warning: 	Moved Permanently for www.cumby.com/?p=1351
+14:07:24	Warning: 	File has moved from www.cumby.com/?p=1351 to http://www.cumby.com/sneak-peek-merion-cricket-club/
+14:07:24	Warning: 	Retry after error -4 (Incorrect length (1193550 Bytes, 12794410 expected)) at link www.cumby.com/wp-content/uploads/2018/06/DSC_0004.jpg (from www.cumby.com/sneak-peek-merion-cricket-club/)
+14:07:46	Warning: 	Moved Permanently for www.cumby.com/?p=1347
+14:07:46	Warning: 	File has moved from www.cumby.com/?p=1347 to http://www.cumby.com/w-s-cumby-launches-new-special-projects-division/
+14:07:46	Warning: 	Moved Permanently for www.cumby.com/?p=1344
+14:07:46	Warning: 	File has moved from www.cumby.com/?p=1344 to http://www.cumby.com/savestoneleigh/
+14:07:46	Warning: 	Retry after error -4 (Incorrect length (604472 Bytes, 749077 expected)) at link www.cumby.com/wp-content/uploads/2018/03/9_stoneleigh_exteriorbackafter.jpg (from www.cumby.com/savestoneleigh/)
+14:08:05	Warning: 	Moved Permanently for www.cumby.com/?p=1337
+14:08:05	Warning: 	File has moved from www.cumby.com/?p=1337 to http://www.cumby.com/atria-center-city-is-complete/
+14:08:05	Warning: 	Retry after error -4 (Incorrect length (131709 Bytes, 478713 expected)) at link www.cumby.com/wp-content/uploads/2018/06/website_180417_406.jpg (from www.cumby.com/atria-center-city-is-complete/)
+14:08:10	Warning: 	Retry after error -4 (Incorrect length (149347 Bytes, 740766 expected)) at link www.cumby.com/wp-content/uploads/2018/06/website_180417_418.jpg (from www.cumby.com/atria-center-city-is-complete/)
+14:08:52	Warning: 	Retry after error -4 (Incorrect length (142533 Bytes, 732916 expected)) at link www.cumby.com/wp-content/uploads/2018/06/website_180417_415.jpg (from www.cumby.com/atria-center-city-is-complete/)
+14:09:01	Warning: 	Retry after error -4 (Incorrect length (144510 Bytes, 578918 expected)) at link www.cumby.com/wp-content/uploads/2018/06/website_180417_402.jpg (from www.cumby.com/atria-center-city-is-complete/)
+14:09:46	Warning: 	Moved Permanently for www.cumby.com/?p=1334
+14:09:46	Warning: 	File has moved from www.cumby.com/?p=1334 to http://www.cumby.com/flashback-friday-mollie-dodd-anderson-library/
+14:09:46	Warning: 	Retry after error -4 (Incorrect length (73060 Bytes, 536620 expected)) at link www.cumby.com/wp-content/uploads/2018/03/29-546-I-RT8.5x11.jpg (from www.cumby.com/flashback-friday-mollie-dodd-anderson-library/)
+14:10:13	Warning: 	Moved Permanently for www.cumby.com/?p=1319
+14:10:13	Warning: 	File has moved from www.cumby.com/?p=1319 to http://www.cumby.com/construction-update-sesame-place/
+14:10:13	Warning: 	Moved Permanently for www.cumby.com/?p=1310
+14:10:13	Warning: 	File has moved from www.cumby.com/?p=1310 to http://www.cumby.com/construction-update-friends-central-school/
+14:10:13	Warning: 	Retry after error -4 (Incorrect length (288795 Bytes, 766052 expected)) at link www.cumby.com/wp-content/uploads/2018/05/small_DSC_0138.jpg (from www.cumby.com/construction-update-friends-central-school/)
+14:10:28	Warning: 	Retry after error -4 (Incorrect length (275016 Bytes, 697497 expected)) at link www.cumby.com/wp-content/uploads/2018/05/small_DSC_0134.jpg (from www.cumby.com/construction-update-friends-central-school/)
+14:11:01	Warning: 	Retry after error -4 (Incorrect length (246615 Bytes, 495090 expected)) at link www.cumby.com/wp-content/uploads/2018/05/small_DSC_0124.jpg (from www.cumby.com/construction-update-friends-central-school/)
+14:11:30	Warning: 	Retry after error -4 (Incorrect length (796 Bytes, 527489 expected)) at link www.cumby.com/wp-content/uploads/2018/05/small_DSC_0131.jpg (from www.cumby.com/construction-update-friends-central-school/)
+14:11:36	Warning: 	Moved Permanently for www.cumby.com/?p=1302
+14:11:36	Warning: 	File has moved from www.cumby.com/?p=1302 to http://www.cumby.com/ppr-apartments-at-swarthmore-college/
+14:11:36	Warning: 	Moved Permanently for www.cumby.com/?p=1297
+14:11:36	Warning: 	File has moved from www.cumby.com/?p=1297 to http://www.cumby.com/green-strategy-porous-paving/
+14:11:36	Warning: 	Moved Permanently for www.cumby.com/?p=1263
+14:11:36	Warning: 	File has moved from www.cumby.com/?p=1263 to http://www.cumby.com/construction-update-merion-cricket-club/
+14:11:36	Warning: 	Moved Permanently for www.cumby.com/?p=1227
+14:11:36	Warning: 	File has moved from www.cumby.com/?p=1227 to http://www.cumby.com/w-s-cumby-breaks-ground-at-the-institute-for-advanced-study/
+14:11:36	Warning: 	Moved Permanently for www.cumby.com/?p=1219
+14:11:36	Warning: 	File has moved from www.cumby.com/?p=1219 to http://www.cumby.com/w-s-cumby-breaks-ground-at-the-benchmark-school/
+14:11:36	Warning: 	Moved Permanently for www.cumby.com/?p=350
+14:11:36	Warning: 	File has moved from www.cumby.com/?p=350 to http://www.cumby.com/w-s-cumby-named-general-contractor-of-the-year-at-abc-eastern-pas-annual-excellence-in-construction-awards/
+14:11:36	Warning: 	Moved Permanently for www.cumby.com/?p=328
+14:11:36	Warning: 	File has moved from www.cumby.com/?p=328 to http://www.cumby.com/construction-is-complete-at-the-shipley-schools-squash-court-and-rowing-center/
+14:11:36	Warning: 	Moved Permanently for www.cumby.com/?p=355
+14:11:36	Warning: 	File has moved from www.cumby.com/?p=355 to http://www.cumby.com/w-s-cumby-breaks-ground-at-greene-street-friends-school/
+14:11:36	Warning: 	Moved Permanently for www.cumby.com/?p=359
+14:11:36	Warning: 	File has moved from www.cumby.com/?p=359 to http://www.cumby.com/swarthmore-town-center-west-awarded-suburban-project-of-the-year-by-ace-mentor-program-of-eastern-pa/
+14:11:36	Warning: 	Moved Permanently for www.cumby.com/?p=362
+14:11:36	Warning: 	File has moved from www.cumby.com/?p=362 to http://www.cumby.com/construction-update-the-shipley-school-squash-court-and-rowing-center/
+14:11:36	Warning: 	Moved Permanently for www.cumby.com/?p=365
+14:11:36	Warning: 	File has moved from www.cumby.com/?p=365 to http://www.cumby.com/w-s-cumby-wins-preservation-alliance-grand-jury-award-for-academy-of-notre-dame-de-namurs-mansion-building/
+14:11:36	Warning: 	Moved Permanently for www.cumby.com/?p=369
+14:11:36	Warning: 	File has moved from www.cumby.com/?p=369 to http://www.cumby.com/w-s-cumby-welcomes-mike-bennett-as-director-of-preconstruction/
+14:11:37	Warning: 	Moved Permanently for www.cumby.com/?p=372
+14:11:37	Warning: 	File has moved from www.cumby.com/?p=372 to http://www.cumby.com/construction-update-roebling-lofts/
+14:11:37	Warning: 	Moved Permanently for www.cumby.com/?p=378
+14:11:37	Warning: 	File has moved from www.cumby.com/?p=378 to http://www.cumby.com/w-s-cumby-is-exhibiting-at-the-philadelphia-hospitality-trade-show/
+14:11:37	Warning: 	Moved Permanently for www.cumby.com/?p=381
+14:11:37	Warning: 	File has moved from www.cumby.com/?p=381 to http://www.cumby.com/construction-update-new-residence-hall-at-swarthmore-college/
+14:11:37	Warning: 	Moved Permanently for www.cumby.com/?p=637
+14:11:37	Warning: 	File has moved from www.cumby.com/?p=637 to http://www.cumby.com/princeton-university-lakeside-graduate-community-achieves-leed-gold-certification/
+14:11:37	Warning: 	Moved Permanently for www.cumby.com/?p=641
+14:11:37	Warning: 	File has moved from www.cumby.com/?p=641 to http://www.cumby.com/w-s-cumby-announces-new-marketing-roles/
+14:11:37	Warning: 	Moved Permanently for www.cumby.com/?p=654
+14:11:37	Warning: 	File has moved from www.cumby.com/?p=654 to http://www.cumby.com/shipley-school-student-commons-achieves-leed-silver-certification/
+14:11:37	Warning: 	Moved Permanently for www.cumby.com/?p=658
+14:11:37	Warning: 	File has moved from www.cumby.com/?p=658 to http://www.cumby.com/w-s-cumby-a-certified-sustaining-partner-with-the-dvgbc/
+14:11:37	Warning: 	Moved Permanently for www.cumby.com/?p=661
+14:11:37	Warning: 	File has moved from www.cumby.com/?p=661 to http://www.cumby.com/construction-begins-at-stoneleigh-mansion-in-villanova/
+14:11:37	Warning: 	Moved Permanently for www.cumby.com/?p=664
+14:11:37	Warning: 	File has moved from www.cumby.com/?p=664 to http://www.cumby.com/roebling-center-development-plan-concept-video/
+14:11:37	Warning: 	Moved Permanently for www.cumby.com/?p=666
+14:11:37	Warning: 	File has moved from www.cumby.com/?p=666 to http://www.cumby.com/historic-restoration-complete-at-the-academy-of-notre-dame-de-namur-mansion/
+14:11:37	Warning: 	Moved Permanently for www.cumby.com/?p=670
+14:11:37	Warning: 	File has moved from www.cumby.com/?p=670 to http://www.cumby.com/w-s-cumby-completes-saunders-house-senior-living-renovations/
+14:11:37	Warning: 	Moved Permanently for www.cumby.com/?p=465
+14:11:37	Warning: 	File has moved from www.cumby.com/?p=465 to http://www.cumby.com/projects/academic/the-inn-at-swarthmore/
+14:12:42	Warning: 	Moved Permanently for www.cumby.com/?p=1015
+14:12:42	Warning: 	File has moved from www.cumby.com/?p=1015 to http://www.cumby.com/projects/historic/learning-and-resource-center/
+14:12:44	Warning: 	Moved Permanently for www.cumby.com/?p=503
+14:12:44	Warning: 	File has moved from www.cumby.com/?p=503 to http://www.cumby.com/projects/religious/trinity-episcopal-church/
+14:12:44	Warning: 	Moved Permanently for www.cumby.com/?p=721
+14:12:44	Warning: 	File has moved from www.cumby.com/?p=721 to http://www.cumby.com/projects/academic/dana-hallowell-residence-hall/
+14:13:58	Warning: 	Moved Permanently for www.cumby.com/?p=758
+14:13:58	Warning: 	File has moved from www.cumby.com/?p=758 to http://www.cumby.com/projects/academic/student-commons-and-arts-center/
+14:13:58	Warning: 	Moved Permanently for www.cumby.com/?p=978
+14:13:58	Warning: 	File has moved from www.cumby.com/?p=978 to http://www.cumby.com/projects/historic/kidzoou/
+14:15:23	Warning: 	Moved Permanently for www.cumby.com/?p=409
+14:15:23	Warning: 	File has moved from www.cumby.com/?p=409 to http://www.cumby.com/projects/academic/kim-tritton-residence-halls/
+14:15:23	Warning: 	Moved Permanently for www.cumby.com/?p=510
+14:15:23	Warning: 	File has moved from www.cumby.com/?p=510 to http://www.cumby.com/projects/leed-green-building/morris-arboretum-horticulture-center/
+14:16:20	Warning: 	Moved Permanently for www.cumby.com/?p=859
+14:16:20	Warning: 	File has moved from www.cumby.com/?p=859 to http://www.cumby.com/projects/religious/church-of-the-redeemer/
+14:16:58	Warning: 	Moved Permanently for www.cumby.com/?p=1086
+14:16:58	Warning: 	File has moved from www.cumby.com/?p=1086 to http://www.cumby.com/projects/senior-living/the-glasstown-residence-at-river-park/
+14:20:56	Warning: 	Moved Permanently for www.cumby.com/?p=692
+14:20:56	Warning: 	File has moved from www.cumby.com/?p=692 to http://www.cumby.com/projects/academic/mollie-dodd-anderson-library/
+14:20:56	Warning: 	Moved Permanently for www.cumby.com/?p=795
+14:20:56	Warning: 	File has moved from www.cumby.com/?p=795 to http://www.cumby.com/projects/corporate/dansko-corporate-headquarters/
+14:22:01	Warning: 	Moved Permanently for www.cumby.com/?p=897
+14:22:01	Warning: 	File has moved from www.cumby.com/?p=897 to http://www.cumby.com/projects/leed-green-building/alice-paul-residence-hall/
+14:22:53	Warning: 	Moved Permanently for www.cumby.com/?p=874
+14:22:53	Warning: 	File has moved from www.cumby.com/?p=874 to http://www.cumby.com/projects/religious/st-davids-episcopal-church/
+14:22:53	Warning: 	Moved Permanently for www.cumby.com/?p=852
+14:22:53	Warning: 	File has moved from www.cumby.com/?p=852 to http://www.cumby.com/projects/religious/bryn-mawr-presbyterian-church/
+14:22:53	Warning: 	Moved Permanently for www.cumby.com/?p=788
+14:22:53	Warning: 	File has moved from www.cumby.com/?p=788 to http://www.cumby.com/projects/corporate/barthco-international-inc/
+14:22:53	Warning: 	Moved Permanently for www.cumby.com/?p=1147
+14:22:53	Warning: 	File has moved from www.cumby.com/?p=1147 to http://www.cumby.com/prequalification-form/
+14:22:54	Warning: 	Moved Permanently for www.cumby.com/?p=539
+14:22:54	Warning: 	File has moved from www.cumby.com/?p=539 to http://www.cumby.com/see-whats-bidding/
+14:22:54	Warning: 	Moved Permanently for www.cumby.com/?p=1388
+14:22:54	Warning: 	File has moved from www.cumby.com/?p=1388 to http://www.cumby.com/demolition-begins-at-sisters-of-st-joseph-chapel/
+14:27:06	Warning: 	Moved Permanently for www.cumby.com/?p=678
+14:27:06	Warning: 	File has moved from www.cumby.com/?p=678 to http://www.cumby.com/projects/academic/innovation-space/
+14:28:05	Warning: 	Moved Permanently for www.cumby.com/?p=1008
+14:28:05	Warning: 	File has moved from www.cumby.com/?p=1008 to http://www.cumby.com/projects/historic/stoneleigh-mansion/
+14:28:54	Warning: 	Moved Permanently for www.cumby.com/?p=710
+14:28:54	Warning: 	File has moved from www.cumby.com/?p=710 to http://www.cumby.com/projects/academic/rubenstein-commons/
+14:30:20	Warning: 	Moved Permanently for www.cumby.com/?p=987
+14:30:20	Warning: 	File has moved from www.cumby.com/?p=987 to http://www.cumby.com/projects/historic/carl-a-fields-center/
+14:30:20	Warning: 	Moved Permanently for www.cumby.com/?p=888
+14:30:20	Warning: 	File has moved from www.cumby.com/?p=888 to http://www.cumby.com/projects/leed-green-building/kappen-aquatic-center/
+14:30:20	Warning: 	Moved Permanently for www.cumby.com/?p=866
+14:30:20	Warning: 	File has moved from www.cumby.com/?p=866 to http://www.cumby.com/projects/religious/pitman-united-methodist-church/
+14:30:20	Warning: 	Moved Permanently for www.cumby.com/?p=1093
+14:30:20	Warning: 	File has moved from www.cumby.com/?p=1093 to http://www.cumby.com/projects/senior-living/waverly-heights/
+14:30:59	Warning: 	Moved Permanently for www.cumby.com/?p=805
+14:30:59	Warning: 	File has moved from www.cumby.com/?p=805 to http://www.cumby.com/projects/corporate/dansko-warehouse-distribution-center/
+14:31:31	Warning: 	Moved Permanently for www.cumby.com/?p=909
+14:31:31	Warning: 	File has moved from www.cumby.com/?p=909 to http://www.cumby.com/projects/leed-green-building/david-kemp-residence-hall/
+14:32:44	Warning: 	Moved Permanently for www.cumby.com/?p=735
+14:32:44	Warning: 	File has moved from www.cumby.com/?p=735 to http://www.cumby.com/projects/academic/ppr-apartments/
+14:32:44	Warning: 	Moved Permanently for www.cumby.com/?p=961
+14:32:44	Warning: 	File has moved from www.cumby.com/?p=961 to http://www.cumby.com/projects/historic/bryn-mawr-film-institute/
+14:33:31	Warning: 	Moved Permanently for www.cumby.com/?p=452
+14:33:31	Warning: 	File has moved from www.cumby.com/?p=452 to http://www.cumby.com/projects/academic/multipurpose-building/
+14:33:31	Warning: 	Moved Permanently for www.cumby.com/?p=1049
+14:33:31	Warning: 	File has moved from www.cumby.com/?p=1049 to http://www.cumby.com/projects/senior-living/acts-granite-farms-estates/
+14:34:12	Warning: 	Moved Permanently for www.cumby.com/?p=813
+14:34:12	Warning: 	File has moved from www.cumby.com/?p=813 to http://www.cumby.com/projects/corporate/nextfab-studio/
+14:35:12	Warning: 	Moved Permanently for www.cumby.com/?p=919
+14:35:12	Warning: 	File has moved from www.cumby.com/?p=919 to http://www.cumby.com/projects/leed-green-building/wister-education-center-and-greenhouse/
+14:36:22	Warning: 	Moved Permanently for www.cumby.com/?p=954
+14:36:22	Warning: 	File has moved from www.cumby.com/?p=954 to http://www.cumby.com/projects/historic/the-mansion-building/
+14:37:23	Warning: 	Moved Permanently for www.cumby.com/?p=1055
+14:37:23	Warning: 	File has moved from www.cumby.com/?p=1055 to http://www.cumby.com/projects/senior-living/atria-center-city/
+14:38:25	Warning: 	Moved Permanently for www.cumby.com/?p=821
+14:38:25	Warning: 	File has moved from www.cumby.com/?p=821 to http://www.cumby.com/projects/corporate/nfl-films-headquarters/
+14:39:17	Warning: 	Moved Permanently for www.cumby.com/?p=928
+14:39:17	Warning: 	File has moved from www.cumby.com/?p=928 to http://www.cumby.com/projects/leed-green-building/stony-brook-millstone-watershed-center/
+14:39:17	Warning: 	Moved Permanently for www.cumby.com/?p=1001
+14:39:17	Warning: 	File has moved from www.cumby.com/?p=1001 to http://www.cumby.com/projects/historic/ivy-club/
+14:39:56	Warning: 	Moved Permanently for www.cumby.com/?p=1062
+14:39:56	Warning: 	File has moved from www.cumby.com/?p=1062 to http://www.cumby.com/projects/senior-living/beaumont-at-bryn-mawr/
+14:40:33	Warning: 	Moved Permanently for www.cumby.com/?p=831
+14:40:33	Warning: 	File has moved from www.cumby.com/?p=831 to http://www.cumby.com/projects/corporate/weavers-way-ambler/
+14:41:26	Warning: 	Moved Permanently for www.cumby.com/?p=971
+14:41:26	Warning: 	File has moved from www.cumby.com/?p=971 to http://www.cumby.com/projects/historic/merion-cricket-club/
+14:41:27	Warning: 	Moved Permanently for www.cumby.com/?p=1069
+14:41:27	Warning: 	File has moved from www.cumby.com/?p=1069 to http://www.cumby.com/projects/senior-living/saunders-house/
+14:42:30	Warning: 	Moved Permanently for www.cumby.com/?p=501
+14:42:30	Warning: 	File has moved from www.cumby.com/?p=501 to http://www.cumby.com/projects/corporate/wrt-design-office/
+14:43:08	Warning: 	Moved Permanently for www.cumby.com/?p=1077
+14:43:08	Warning: 	File has moved from www.cumby.com/?p=1077 to http://www.cumby.com/projects/senior-living/tenacre-cottages/
+14:43:31	Warning: 	Moved Permanently for www.cumby.com/?p=438
+14:43:31	Warning: 	File has moved from www.cumby.com/?p=438 to http://www.cumby.com/projects/corporate/920-sproul-road/
+14:44:23	Warning: 	Moved Permanently for www.cumby.com/?p=443
+14:44:23	Warning: 	File has moved from www.cumby.com/?p=443 to http://www.cumby.com/projects/corporate/ardmore-farmers-market/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 49 minutes 57 seconds : 890 links scanned, 773 files written (163852773 bytes overall) [162243065 bytes received at 24593 bytes/sec], 3298411 bytes transferred using HTTP compression in 343 files, ratio 33%, 2.4 requests per connection
+(1 errors, 213 warnings, 0 messages)
